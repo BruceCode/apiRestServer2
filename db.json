@@ -1,0 +1,109 @@
+{
+
+	"mensajes": [
+		
+  {
+    "id": 80,
+    "fecha": "14/07/2017",
+    "titulo": "E2 - Tipo 10",
+    "cuerpo": "¡Hola José!, recordá levantar otro server para probar multiples instituciones por background.",
+    "tipo": 10
+  },
+
+
+  {
+    "id": 79,
+    "fecha": "14/07/2017",
+    "titulo": "E2 - Tipo 9",
+    "cuerpo": "¡Hola José!, ...",
+    "tipo": 9
+  },
+
+  {
+    "id": 78,
+    "fecha": "14/07/2017",
+    "titulo": "E2 - Tipo 8",
+    "cuerpo": "¡Hola José!, ...",
+    "tipo": 8
+  },
+
+
+  {
+    "id": 77,
+    "fecha": "14/07/2017",
+    "titulo": "E2 - Tipo 7",
+    "cuerpo": "¡Hola José!, ...",
+    "tipo": 7
+  },
+
+  {
+    "id": 76,
+    "fecha": "14/07/2017",
+    "titulo": "E2 - Tipo 6",
+    "cuerpo": "¡Hola José!, ...",
+    "tipo": 6
+  },
+
+  {
+    "id": 75,
+    "fecha": "14/07/2017",
+    "titulo": "E2 - Tipo 5",
+    "cuerpo": "¡Hola José!, ...",
+    "tipo": 5
+  }
+
+	],
+
+
+	"tokens": [
+		{ 
+			"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiam9zZSJ9.OczLyxS_CsopfsrU7pew-mTBZQrN-tU34phaBE1dl_4"
+		}
+
+	],
+
+
+
+ "instituciones": [
+    {
+			"id": 1,
+			"nombre": "API Local WIFI",
+			"url": "http://172.27.31.85/apiapp/rest",
+			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+		},
+
+ 	{
+			"id": 2,
+			"nombre": "API Local CABLE",
+			"url": "http://172.27.31.85/apiapp/rest",
+			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+		},
+
+    {
+			"id": 3,
+			"nombre": "API remoto GitHub 1",
+			"url": "http://my-json-server.typicode.com/brucecode/apiRestServer1",
+			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+		},
+		{
+			"id": 4,
+			"nombre": "API remoto GitHub 2",
+			"url": "http://my-json-server.typicode.com/brucecode/apiRestServer1",
+			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+		},
+   {
+			"id": 5,
+			"nombre": "API error url",
+			"url": "http://undefined",
+			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+		},
+   {
+			"id": 6,
+			"nombre": "API 404",
+			"url": "https://facebook.github.io/react-native",
+			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+		}
+
+	]
+
+}
