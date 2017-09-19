@@ -3,7 +3,7 @@
 	"mensajes": [
 		
   {
-    "id": 80,
+    "id": 10,
     "fecha": "14/07/2017",
     "titulo": "E2 - Tipo 10",
     "cuerpo": "¡Hola José!, recordá levantar otro server para probar multiples instituciones por background.",
@@ -12,98 +12,79 @@
 
 
   {
-    "id": 79,
+    "id": 9,
     "fecha": "14/07/2017",
-    "titulo": "E2 - Tipo 9",
-    "cuerpo": "¡Hola José!, ...",
+    "titulo": "E2 - TiPo 9",
+    "cuerpo": "¡Hola José!, ... asd",
     "tipo": 9
   },
 
   {
-    "id": 78,
+    "id": 8,
     "fecha": "14/07/2017",
-    "titulo": "E2 - Tipo 8",
-    "cuerpo": "¡Hola José!, ...",
+    "titulo": "E2 - TiP0 8",
+    "cuerpo": "¡Hola José!, ... qwe",
     "tipo": 8
   },
 
 
   {
-    "id": 77,
+    "id": 7,
     "fecha": "14/07/2017",
-    "titulo": "E2 - Tipo 7",
-    "cuerpo": "¡Hola José!, ...",
+    "titulo": "E2 - tiPo 7",
+    "cuerpo": "¡Hola José!, ... zxc",
     "tipo": 7
   },
 
   {
-    "id": 76,
+    "id": 6,
     "fecha": "14/07/2017",
-    "titulo": "E2 - Tipo 6",
-    "cuerpo": "¡Hola José!, ...",
+    "titulo": "E2 - Tipo seis",
+    "cuerpo": "¡Hola José!, ... rTy",
     "tipo": 6
   },
 
   {
-    "id": 75,
+    "id": 5,
     "fecha": "14/07/2017",
-    "titulo": "E2 - Tipo 5",
-    "cuerpo": "¡Hola José!, ...",
+    "titulo": "E2 - Tipo cinco",
+    "cuerpo": "¡Hola José!, ... fGh",
     "tipo": 5
+  },
+
+  {
+    "id": 4,
+    "fecha": "14/07/2017",
+    "titulo": "E2 - Tipo cuaTro",
+    "cuerpo": "¡Hola José!, ... vBn",
+    "tipo": 4
+  },
+
+  {
+    "id": 3,
+    "fecha": "14/07/2017",
+    "titulo": "E2 - Tipo Dos más Uno",
+    "cuerpo": "¡Hola José!, ... aSdFgH",
+    "tipo": 3
+  },
+
+  {
+    "id": 2,
+    "fecha": "14/07/2017",
+    "titulo": "E2 - Tipo 4/2",
+    "cuerpo": "¡Hola José!, ... qWeRtY",
+    "tipo": 2
+  },
+
+  {
+    "id": 1,
+    "fecha": "14/07/2017",
+    "titulo": "E2 - Tipo uno",
+    "cuerpo": "¡Hola José!, ... zXcVbn",
+    "tipo": 1
   }
 
-	],
+]
 
-
-	"tokens": [
-		{ 
-			"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiam9zZSJ9.OczLyxS_CsopfsrU7pew-mTBZQrN-tU34phaBE1dl_4"
-		}
-
-	],
-
-
-
- "instituciones": [
-    {
-			"id": 1,
-			"nombre": "API Local WIFI",
-			"url": "http://172.27.31.85/apiapp/rest",
-			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
-		},
-
- 	{
-			"id": 2,
-			"nombre": "API Local CABLE",
-			"url": "http://172.27.31.85/apiapp/rest",
-			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
-		},
-
-    {
-			"id": 3,
-			"nombre": "API remoto GitHub 1",
-			"url": "http://my-json-server.typicode.com/brucecode/apiRestServer1",
-			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
-		},
-		{
-			"id": 4,
-			"nombre": "API remoto GitHub 2",
-			"url": "http://my-json-server.typicode.com/brucecode/apiRestServer1",
-			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
-		},
-   {
-			"id": 5,
-			"nombre": "API error url",
-			"url": "http://undefined",
-			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
-		},
-   {
-			"id": 6,
-			"nombre": "API 404",
-			"url": "https://facebook.github.io/react-native",
-			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
-		}
-
-	]
 
 }
