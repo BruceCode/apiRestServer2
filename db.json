@@ -91,7 +91,144 @@
 	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiam9zZSJ9.OczLyxS_CsopfsrU7pew-mTBZQrN-tU34phaBE1dl_4"
 	}
 
+],
+
+
+"instituciones": [
+
+{
+"id": 1,
+"nombre": "Universidad Nacional SIU",
+"activa": "true",
+"url": "http://carola.siu.edu.ar/api-app/001/rest",
+"url3w": "http://carola.siu.edu.ar/3w/001"
+},
+
+{
+"id": 3,
+"nombre": "Instituto Superior ReactNative - Facultad Regional 1",
+"activa": "true",
+"url": "http://my-json-server.typicode.com/brucecode/apiRestServer1",
+"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+},
+
+{
+"id": 4,
+"nombre": "Escuela de Programación JSM",
+"activa": "true",
+"url": "http://my-json-server.typicode.com/brucecode/apiRestServer2",
+"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+},
+
+{
+"id": 5,
+"nombre": "Instituto Universitario Superior Cosme Fulanito",
+"activa": "false",
+"url": "http://my-json-server.typicode.com/brucecode/apiRestServer2",
+"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+},
+
+{
+"id": 11,
+"nombre": "Universidad Nacional SIU",
+"activa": "true",
+"url": "http://carola.siu.edu.ar/api-app/001/rest",
+"url3w": "http://carola.siu.edu.ar/3w/001"
+},
+
+{
+"id": 13,
+"nombre": "Instituto Superior ReactNative - Facultad Regional 1",
+"activa": "true",
+"url": "http://my-json-server.typicode.com/brucecode/apiRestServer1",
+"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+},
+
+{
+"id": 14,
+"nombre": "Escuela de Programación JSM",
+"activa": "true",
+"url": "http://my-json-server.typicode.com/brucecode/apiRestServer2",
+"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+},
+
+{
+"id": 15,
+"nombre": "Instituto Universitario Superior Cosme Fulanito",
+"activa": "false",
+"url": "http://my-json-server.typicode.com/brucecode/apiRestServer2",
+"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+},
+
+
+{
+"id": 21,
+"nombre": "Universidad Nacional SIU",
+"activa": "true",
+"url": "http://carola.siu.edu.ar/api-app/001/rest",
+"url3w": "http://carola.siu.edu.ar/3w/001"
+},
+
+{
+"id": 23,
+"nombre": "Instituto Superior ReactNative - Facultad Regional 1",
+"activa": "true",
+"url": "http://my-json-server.typicode.com/brucecode/apiRestServer1",
+"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+},
+
+{
+"id": 24,
+"nombre": "Escuela de Programación JSM",
+"activa": "true",
+"url": "http://my-json-server.typicode.com/brucecode/apiRestServer2",
+"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+},
+
+{
+"id": 25,
+"nombre": "Instituto Universitario Superior Cosme Fulanito",
+"activa": "false",
+"url": "http://my-json-server.typicode.com/brucecode/apiRestServer2",
+"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+},
+
+
+{
+"id": 31,
+"nombre": "Universidad Nacional SIU",
+"activa": "true",
+"url": "http://carola.siu.edu.ar/api-app/001/rest",
+"url3w": "http://carola.siu.edu.ar/3w/001"
+},
+
+{
+"id": 33,
+"nombre": "Instituto Superior ReactNative - Facultad Regional 1",
+"activa": "true",
+"url": "http://my-json-server.typicode.com/brucecode/apiRestServer1",
+"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+},
+
+{
+"id": 34,
+"nombre": "Escuela de Programación JSM",
+"activa": "true",
+"url": "http://my-json-server.typicode.com/brucecode/apiRestServer2",
+"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+},
+
+{
+"id": 35,
+"nombre": "Instituto Universitario Superior Cosme Fulanito",
+"activa": "false",
+"url": "http://my-json-server.typicode.com/brucecode/apiRestServer2",
+"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+}
+
+
 ]
+
 
 
 }
